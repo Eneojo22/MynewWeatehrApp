@@ -1,0 +1,1 @@
+This web application is design for the Alx program final project. The application core function is the provision of the weather conditions of a particular geographical location.
