@@ -10,4 +10,4 @@ Usage: the web application can be directly used and accessed from https://weathe
 
 Contributing: We're open for contributions in regards to error corrections, algorithm efficiency or upgrades to the web application. Those who have made contributions would be listed in the contribution list.
 
-Licensing: No part of this project may be used in any form or anyway not listed in the usage section. For usage otherwise not listed, contain the author of the project at uniwylimp@gmail.com for special permission.
+Licensing: No part of this project may be used in any form or anyway not listed in the usage section. For usage otherwise not listed, thanks.
